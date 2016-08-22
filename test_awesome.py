@@ -3,7 +3,7 @@ import awesome
 
 def test_awesome():
     ok = awesome.awesome()
-    assert ok == "awesome"
+    assert ok == "asdf"
 
 
 if __name__ == "__main__":
