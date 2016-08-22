@@ -4,4 +4,6 @@ elixir:
   - 1.3.2
 otp_release:
   - 19.0.2
+install:
+  - ./no-op.sh
 script: ./test.sh
