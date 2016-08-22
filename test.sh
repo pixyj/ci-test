@@ -1,0 +1,2 @@
+cd awesome
+mix test

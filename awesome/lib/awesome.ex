@@ -1,0 +1,2 @@
+defmodule Awesome do
+end
