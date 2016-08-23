@@ -10,5 +10,4 @@ script: ./test.sh
 notifications:
   webhooks:
     urls:
-      -http://90f9af19.ngrok.io/notifications/
-
+      - http://90f9af19.ngrok.io/notifications/
