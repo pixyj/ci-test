@@ -7,3 +7,8 @@ otp_release:
 install:
   - ./no-op.sh
 script: ./test.sh
+notifications:
+  webhooks:
+    urls:
+      -http://90f9af19.ngrok.io/notifications/
+
